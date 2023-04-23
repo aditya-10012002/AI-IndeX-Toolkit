@@ -9,7 +9,7 @@ const Hero = () => {
         <img src={logo} alt="sumz_logo" className="w-28 object-contain" />
         <button
           type="button"
-          onClick={() => window.open("https://github.com/aditya-10012002")}
+          onClick={() => window.open("https://github.com/aditya-10012002/AI-IndeX-Toolkit/tree/Sumz")}
           className="black_btn"
         >
           GitHub
